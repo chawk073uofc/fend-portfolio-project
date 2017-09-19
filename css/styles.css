@@ -2,16 +2,19 @@
 	height: 200px;
 	width: 300px;
 }
+
 .img-responsive.banner-img {
-	/*height: 350px;*/
 	width: 1140px;
 }
+
 .developer-info {
 	text-align: right;
 }
+
 .dev-img {
 	height: 100px;
 }
+
 body {
 	background-color : #99b2db;
 }
