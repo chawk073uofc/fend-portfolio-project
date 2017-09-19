@@ -1,0 +1,17 @@
+.thumbnail {
+	height: 200;
+	width: 300;
+}
+.img-responsive.banner-img {
+	height: 350;
+	width: 1140;
+}
+.developer-info {
+	text-align: right;
+}
+.dev-img {
+	height: 100;
+}
+body {
+	background-color : #99b2db;
+}
