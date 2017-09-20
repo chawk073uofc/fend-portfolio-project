@@ -1,10 +1,9 @@
 .thumbnail {
-	height: 200px;
-	width: 300px;
+	width: 100%;
 }
 
 .img-responsive.banner-img {
-	width: 1140px;
+	width: 100%;
 }
 
 .developer-info {
